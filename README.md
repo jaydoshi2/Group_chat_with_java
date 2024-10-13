@@ -5,7 +5,15 @@ The project is deployed on an Amazon EC2 instance and can be accessed at:
 [Project Link](http://13.60.19.69:8070/)
 
 ## 🎯 Aim
-This project aims to create a real-time group chat application using Java Spring Boot, WebSocket for real-time communication, and MongoDB for message persistence.
+This project aims to explore and learn key concepts in modern web application development, including:
+
+- Java Spring framework and its project structure
+- Real-time communication using WebSockets
+- Containerization techniques
+- MongoDB for data persistence
+- Building a group chat application as a practical implementation of these concepts
+
+Through the development of this real-time group chat application, the project serves as a hands-on learning experience for understanding the integration and application of these technologies in a full-stack environment.
 
 ## ✨ Features
 - 🚀 Real-time messaging using WebSocket
