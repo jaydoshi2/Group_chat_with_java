@@ -1,5 +1,9 @@
 # 💬 Group Chat Application
 
+The project is deployed on an Amazon EC2 instance and can be accessed at:
+
+[Project Link](http://13.60.19.69:8070/)
+
 ## 🎯 Aim
 This project aims to create a real-time group chat application using Java Spring Boot, WebSocket for real-time communication, and MongoDB for message persistence.
 
