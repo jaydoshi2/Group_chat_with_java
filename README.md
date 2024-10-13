@@ -171,8 +171,4 @@ Please ensure to keep your MongoDB credentials secure and do not expose them in 
 
 ## 🤝 Contributing
 
-[Add your contribution guidelines here]
-
-## 📄 License
-
-[Add your license information here]
+Feel To Contribute in this Project.
