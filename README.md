@@ -2,7 +2,7 @@
 
 The project is deployed on an Amazon EC2 instance and can be accessed at:
 
-[Project Link](http://13.60.19.69:8070/)
+(http://13.60.19.69:8070/)
 
 ## 🎯 Aim
 This project aims to explore and learn key concepts in modern web application development, including:
